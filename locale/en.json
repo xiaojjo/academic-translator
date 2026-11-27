@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Paper translator",
+    "description": "A bilingual translation workbench for English papers. Pick the skills and glossary to inject, translate whole paragraphs or single sentences, read source and translation side by side, and keep one translation per term across the paper.",
+    "detail": "docs/DETAIL.md"
+  }
+}

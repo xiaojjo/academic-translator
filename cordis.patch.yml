@@ -1,0 +1,3 @@
+- insert:
+    - id: academic-translator
+      name: '@local/dsh-academic-translator'
